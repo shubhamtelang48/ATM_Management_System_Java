@@ -18,3 +18,11 @@ application where all banking customers can login through the secured web page b
 login id and password. Users will have all options and features in that application like get money
 from western union, money transfer to others, and send cash or money to inter banking as well as
 other banking customers by simply adding them as payees.
+
+
+## Methods 
+- We need to be able to generate an account number using Login Page
+- Account types: Savings or Current Account
+- Maintain/update Balance
+- Open/Close Account
+- Withdraw/Deposit
