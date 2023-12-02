@@ -26,3 +26,4 @@ other banking customers by simply adding them as payees.
 - Maintain/update Balance
 - Open/Close Account
 - Withdraw/Deposit
+- Create and Change pin
